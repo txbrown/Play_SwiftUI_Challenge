@@ -11,7 +11,7 @@ import SwiftUI
 struct Play_SwiftUI_ChallengeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Layout()
         }
     }
 }
